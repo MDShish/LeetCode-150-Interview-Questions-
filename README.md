@@ -32,9 +32,18 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 ## Array
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1301-number-of-paths-with-max-score) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
