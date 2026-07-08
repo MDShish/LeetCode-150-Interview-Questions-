@@ -33,15 +33,39 @@
 
 # ======================================
 
+# class Solution:
+#     def sumAndMultiply(self, n: int) -> int:
+#         digits = [d for d in str(n) if d != '0']
+
+#         if not digits:
+#             return 0
+
+#         number = int("".join(digits))
+#         digit_sum = sum(int(d) for d in digits)
+
+#         return number * digit_sum
+
+# ======================================
+
+
 class Solution:
     def sumAndMultiply(self, n: int) -> int:
-        digits = [d for d in str(n) if d != '0']
-
-        if not digits:
+        if n == 0:
             return 0
 
-        number = int("".join(digits))
-        digit_sum = sum(int(d) for d in digits)
+        digit_sum = 0
+        number = 0
+        place = 1
+
+        while n:
+            digit = n % 10
+
+            if digit != 0:
+                digit_sum += digit
+                number += digit * place
+                place *= 10
+
+            n //= 10
 
         return number * digit_sum
     
