@@ -15,20 +15,34 @@
 
 # =============================================================
 
+# class Solution:
+#     def sumAndMultiply(self, n: int) -> int:
+#         digits = []
+#         digit_sum = 0
+
+#         for ch in str(n):
+#             if ch != '0':
+#                 digits.append(ch)
+#                 digit_sum += int(ch)
+
+#         if not digits:
+#             return 0
+
+#         number = int("".join(digits))
+#         return number * digit_sum
+
+# ======================================
+
 class Solution:
     def sumAndMultiply(self, n: int) -> int:
-        digits = []
-        digit_sum = 0
-
-        for ch in str(n):
-            if ch != '0':
-                digits.append(ch)
-                digit_sum += int(ch)
+        digits = [d for d in str(n) if d != '0']
 
         if not digits:
             return 0
 
         number = int("".join(digits))
+        digit_sum = sum(int(d) for d in digits)
+
         return number * digit_sum
     
 
