@@ -37,6 +37,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0125-valid-palindrome) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
@@ -50,4 +51,8 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
