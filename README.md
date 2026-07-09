@@ -35,6 +35,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [0001-two-sum](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0217-contains-duplicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
@@ -65,8 +66,10 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | ------- |
 | [0001-two-sum](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
