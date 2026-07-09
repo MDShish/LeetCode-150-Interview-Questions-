@@ -34,6 +34,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | ------- |
 | [0001-two-sum](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0217-contains-duplicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1301-number-of-paths-with-max-score) |
@@ -47,6 +48,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1301-number-of-paths-with-max-score](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1301-number-of-paths-with-max-score) |
 ## Matrix
@@ -72,4 +74,8 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | ------- |
 | [0049-group-anagrams](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0217-contains-duplicate) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
