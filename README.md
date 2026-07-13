@@ -103,4 +103,8 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
