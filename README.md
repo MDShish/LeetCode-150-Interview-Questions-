@@ -41,6 +41,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [0200-number-of-islands](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0347-top-k-frequent-elements) |
+| [0695-max-area-of-island](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0733-flood-fill) |
 | [1301-number-of-paths-with-max-score](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -62,6 +63,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | ------- |
 | [0036-valid-sudoku](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0733-flood-fill) |
 | [1301-number-of-paths-with-max-score](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1301-number-of-paths-with-max-score) |
 ## Math
@@ -115,14 +117,17 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0733-flood-fill) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
