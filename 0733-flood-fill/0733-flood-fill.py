@@ -97,10 +97,7 @@ class Solution:
         image[sr][sc] = color
         q.append((sr, sc))
 
-        while len(q) != 0:
-            size: int = len(q)
-
-            for _ in range(0, size):
+        while q:
                 x, y = q.popleft()
                 # now put adj elements with original color
 
