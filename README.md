@@ -36,6 +36,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [0036-valid-sudoku](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0200-number-of-islands) |
@@ -133,4 +134,12 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | ------- |
 | [0200-number-of-islands](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0695-max-area-of-island) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
