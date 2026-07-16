@@ -16,6 +16,27 @@ class Solution:
         helper(0, nums, curSet, subSets)
         return subSets
 
+# ============================================
+
+
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        curSet, subSets = [], []
+
+        def helper(i):
+            if i >= len(nums):
+                subSets.append(curSet.copy())
+                return
+
+            curSet.append(nums[i])
+            helper(i + 1)
+
+            curSet.pop()
+            helper(i + 1)
+
+        helper(0)
+        return subSets
+
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
 # Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
