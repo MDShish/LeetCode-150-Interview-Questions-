@@ -93,11 +93,8 @@ class Solution:
         if original_color == color:
             return image
 
-        visited: list[list[int]] = [[False]*n for _ in range(0, m)]
-
         # color first pixel
         image[sr][sc] = color
-        visited[sr][sc] = True
         q.append((sr, sc))
 
         while len(q) != 0:
@@ -109,28 +106,24 @@ class Solution:
 
                 # 4 dirs
                 # 1. up
-                if self.is_valid(x-1, y, image) and visited[x-1][y] is False and image[x-1][y] == original_color:
+                if self.is_valid(x-1, y, image) and image[x-1][y] == original_color:
                     image[x-1][y] = color
                     q.append((x-1, y))
-                    visited[x-1][y] = True
 
                 # 1. down
-                if self.is_valid(x+1, y, image) and visited[x+1][y] is False and image[x+1][y] == original_color:
+                if self.is_valid(x+1, y, image) and image[x+1][y] == original_color:
                     image[x+1][y] = color
                     q.append((x+1, y))
-                    visited[x+1][y] = True
 
                 # 1. left
-                if self.is_valid(x, y-1, image) and visited[x][y-1] is False and image[x][y-1] == original_color:
+                if self.is_valid(x, y-1, image) and image[x][y-1] == original_color:
                     image[x][y-1] = color
                     q.append((x, y-1))
-                    visited[x][y-1] = True
 
                 # 1. right
-                if self.is_valid(x, y+1, image) and visited[x][y+1] is False and image[x][y+1] == original_color:
+                if self.is_valid(x, y+1, image) and image[x][y+1] == original_color:
                     image[x][y+1] = color
                     q.append((x, y+1))
-                    visited[x][y+1] = True
 
         return image
 
