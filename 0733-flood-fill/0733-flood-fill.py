@@ -89,6 +89,10 @@ class Solution:
         q: deque[tuple[int,int]] = deque()
 
         original_color: int = image[sr][sc]
+
+        if original_color == color:
+            return image
+
         visited: list[list[int]] = [[False]*n for _ in range(0, m)]
 
         # color first pixel
