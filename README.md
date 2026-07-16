@@ -38,6 +38,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [0053-maximum-subarray](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0347-top-k-frequent-elements) |
 | [0733-flood-fill](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0733-flood-fill) |
@@ -60,6 +61,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0733-flood-fill) |
 | [1301-number-of-paths-with-max-score](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1301-number-of-paths-with-max-score) |
 ## Math
@@ -112,9 +114,15 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0733-flood-fill) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
