@@ -138,6 +138,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
