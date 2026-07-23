@@ -50,6 +50,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [1301-number-of-paths-with-max-score](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1301-number-of-paths-with-max-score) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## String
 |  |
 | ------- |
@@ -76,6 +77,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 ## Math
 |  |
 | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
@@ -154,4 +156,5 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | ------- |
 | [0078-subsets](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0090-subsets-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
