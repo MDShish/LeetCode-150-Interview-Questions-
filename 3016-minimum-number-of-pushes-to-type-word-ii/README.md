@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii">3276. Minimum Number of Pushes to Type Word II</a></h2><h3>Medium</h3><hr><p>You are given a string <code>word</code> containing lowercase English letters.</p>
+<h2><a href="https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii">3016. Minimum Number of Pushes to Type Word II</a></h2><h3>Medium</h3><hr><p>You are given a string <code>word</code> containing lowercase English letters.</p>
 
 <p>Telephone keypads have keys mapped with <strong>distinct</strong> collections of lowercase English letters, which can be used to form words by pushing them. For example, the key <code>2</code> is mapped with <code>[&quot;a&quot;,&quot;b&quot;,&quot;c&quot;]</code>, we need to push the key one time to type <code>&quot;a&quot;</code>, two times to type <code>&quot;b&quot;</code>, and three times to type <code>&quot;c&quot;</code> <em>.</em></p>
 
