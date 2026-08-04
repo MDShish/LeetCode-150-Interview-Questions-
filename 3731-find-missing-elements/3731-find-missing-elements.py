@@ -6,6 +6,12 @@ class Solution:
                 res.append(i)
         return res
 
+
+
+class Solution:
+    def findMissingElements(self, nums: List[int]) -> List[int]:
+        return (K:=set(nums)) and [x for x in range(min(K)+1, max(K)) if x not in K]
+
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
 # Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
