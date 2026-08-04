@@ -51,6 +51,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [1636-sort-array-by-increasing-frequency](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3731-find-missing-elements](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -93,6 +94,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [0217-contains-duplicate](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0347-top-k-frequent-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1636-sort-array-by-increasing-frequency) |
+| [3731-find-missing-elements](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +102,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [0217-contains-duplicate](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0347-top-k-frequent-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1636-sort-array-by-increasing-frequency) |
+| [3731-find-missing-elements](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
