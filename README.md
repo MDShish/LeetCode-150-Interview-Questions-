@@ -50,6 +50,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [1301-number-of-paths-with-max-score](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1301-number-of-paths-with-max-score) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3731-find-missing-elements) |
 ## String
@@ -59,6 +60,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [0049-group-anagrams](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0125-valid-palindrome) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,4 +162,12 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [0078-subsets](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0090-subsets-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
