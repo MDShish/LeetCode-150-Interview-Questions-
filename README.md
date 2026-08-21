@@ -51,6 +51,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [1636-sort-array-by-increasing-frequency](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3731-find-missing-elements) |
@@ -81,6 +82,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 ## Math
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
@@ -163,6 +165,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | ------- |
 | [0078-subsets](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0090-subsets-ii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Segment Tree
 |  |
@@ -172,4 +175,16 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Binary Search
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
