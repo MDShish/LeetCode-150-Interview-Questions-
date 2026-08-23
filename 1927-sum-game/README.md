@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sum-game">2039. Sum Game</a></h2><h3>Medium</h3><hr><p>Alice and Bob take turns playing a game, with <strong>Alice</strong><strong>&nbsp;starting first</strong>.</p>
+<h2><a href="https://leetcode.com/problems/sum-game/?envType=daily-question&envId=2026-08-23">1927. Sum Game</a></h2><h3>Medium</h3><hr><p>Alice and Bob take turns playing a game, with <strong>Alice</strong><strong>&nbsp;starting first</strong>.</p>
 
 <p>You are given a string <code>num</code> of <strong>even length</strong> consisting of digits and <code>&#39;?&#39;</code> characters. On each turn, a player will do the following if there is still at least one <code>&#39;?&#39;</code> in <code>num</code>:</p>
 
