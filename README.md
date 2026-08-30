@@ -50,6 +50,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [1301-number-of-paths-with-max-score](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1301-number-of-paths-with-max-score) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -193,6 +194,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Game Theory
 |  |
 | ------- |
