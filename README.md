@@ -199,4 +199,8 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1927-sum-game) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
