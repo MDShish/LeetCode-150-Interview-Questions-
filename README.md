@@ -55,6 +55,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -81,6 +82,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [0733-flood-fill](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1301-number-of-paths-with-max-score) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +105,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [0347-top-k-frequent-elements](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0347-top-k-frequent-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -150,6 +153,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [0695-max-area-of-island](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1091-shortest-path-in-binary-matrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -170,6 +174,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [0090-subsets-ii](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0090-subsets-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Segment Tree
 |  |
 | ------- |
