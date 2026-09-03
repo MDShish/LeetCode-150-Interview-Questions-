@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/construct-uniform-parity-array-ii">4258. Construct Uniform Parity Array II</a></h2><h3>Medium</h3><hr><p>You are given an array <code>nums1</code> of <code>n</code> <strong>distinct</strong> integers.</p>
+<h2><a href="https://leetcode.com/problems/construct-uniform-parity-array-ii">3876. Construct Uniform Parity Array II</a></h2><h3>Medium</h3><hr><p>You are given an array <code>nums1</code> of <code>n</code> <strong>distinct</strong> integers.</p>
 
 <p>You want to construct another array <code>nums2</code> of length <code>n</code> such that the elements in <code>nums2</code> are either <strong>all odd or all even</strong>.</p>
 
