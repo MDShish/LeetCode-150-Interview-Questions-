@@ -57,6 +57,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3731-find-missing-elements) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
