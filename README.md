@@ -58,6 +58,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
@@ -210,4 +211,8 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
