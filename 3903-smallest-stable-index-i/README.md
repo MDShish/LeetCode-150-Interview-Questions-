@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/smallest-stable-index-i">4284. Smallest Stable Index I</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> of length <code>n</code> and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/smallest-stable-index-i">3903. Smallest Stable Index I</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> of length <code>n</code> and an integer <code>k</code>.</p>
 
 <p>For each index <code>i</code>, define its <strong>instability score</strong> as <code>max(nums[0..i]) - min(nums[i..n - 1])</code>.</p>
 
