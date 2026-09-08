@@ -49,6 +49,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [0695-max-area-of-island](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1301-number-of-paths-with-max-score) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
