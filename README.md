@@ -33,6 +33,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0049-group-anagrams) |
@@ -97,6 +98,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
