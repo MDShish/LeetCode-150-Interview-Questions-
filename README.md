@@ -33,6 +33,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0039-combination-sum) |
@@ -100,6 +101,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0125-valid-palindrome) |
 ## Hash Table
@@ -206,6 +208,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0011-container-with-most-water) |
 | [1927-sum-game](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Game Theory
