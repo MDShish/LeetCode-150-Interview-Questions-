@@ -77,6 +77,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0152-maximum-product-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1301-number-of-paths-with-max-score) |
@@ -93,6 +94,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0070-climbing-stairs) |
 | [1927-sum-game](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -225,4 +227,8 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3903-smallest-stable-index-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
