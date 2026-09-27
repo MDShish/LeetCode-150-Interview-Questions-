@@ -43,6 +43,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [0078-subsets](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0217-contains-duplicate) |
@@ -96,6 +97,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1927-sum-game](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -236,6 +238,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bracket Sequences
 |  |
 | ------- |
