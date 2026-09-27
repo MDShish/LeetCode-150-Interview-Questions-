@@ -68,6 +68,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0125-valid-palindrome) |
 | [1927-sum-game](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1927-sum-game) |
@@ -231,4 +232,12 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
