@@ -73,6 +73,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [0049-group-anagrams](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0125-valid-palindrome) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -241,9 +242,11 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [0020-valid-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
