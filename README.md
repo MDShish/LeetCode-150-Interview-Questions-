@@ -74,6 +74,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [0032-longest-valid-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0125-valid-palindrome) |
+| [0856-score-of-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1927-sum-game) |
@@ -250,6 +251,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [0020-valid-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0856-score-of-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -258,6 +260,7 @@ All problems are **solved in Python** and organized **pattern-wise** for better 
 | [0020-valid-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MDShish/LeetCode-150-Interview-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Floyd's Cycle Finding Algorithm
